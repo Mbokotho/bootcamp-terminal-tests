@@ -1,0 +1,27 @@
+{
+  "name": "first_terminal_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": ".node_modules/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mbokotho/bootcamp_terminal-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mbokotho/bootcamp_terminal-tests/issues"
+  },
+  "homepage": "https://github.com/Mbokotho/bootcamp_terminal-tests#readme"
+}
